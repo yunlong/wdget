@@ -1,0 +1,18 @@
+Source: wdget
+Section: net
+Priority: extra
+Maintainer: yunlong.lee <yunlong.lee@163.com>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.7.3
+Homepage: http://sourceforge.net/projects/dget
+
+Package: wdget
+Architecture: i386
+Depends: ${shlibs:Depends}, ${misc:Depends}, libqt3-mt, libssl0.9.8
+Description: dget is a multi-thread download tool based on linux platform.
+ develop using C++,  support FTP, HTTP, HTTPS, MMS, RTSP protocol.
+ The Max Thread number limits to 6 for each task.
+ dget 0.5v with QT by yunlong.lee.
+ Email :<yunlong.lee@163.com>	
+ WebSite : http://sourceforge.net/projects/dget  
+

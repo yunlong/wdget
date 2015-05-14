@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user>
+		<id>ifan</id>
+		<name>爱饭</name>
+		<screen_name>爱饭</screen_name>
+		<location></location>
+		<description>饭否客户端，居家旅行话痨必备。
+项目主页：http://code.google.com/p/ifan/，bug 和 feature request 请到项目主页上提出。</description>
+		<profile_image_url>http://avatar.fanfou.com/s0/00/b4/fm.jpg?1229951068</profile_image_url>
+		<url>http://fanfou.com/ifan</url>
+		<protected>false</protected>
+		<followers_count>368</followers_count>
+	</user>
+	<user>
+		<id>fanfouapi</id>
+		<name>饭否API</name>
+		<screen_name>饭否API</screen_name>
+		<location></location>
+		<description>关于饭否API的最新消息</description>
+		<profile_image_url>http://avatar.fanfou.com/s0/00/cz/jr.jpg?1234851471</profile_image_url>
+		<url>http://fanfou.com/fanfouapi</url>
+		<protected>false</protected>
+		<followers_count>101</followers_count>
+	</user>
+</users>

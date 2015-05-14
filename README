@@ -1,0 +1,1 @@
+make -f wdget.mk  && make -f wdget.mk install

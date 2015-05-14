@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=0.5.0
+Encoding=UTF-8
+Name=wdget
+Comment=wdget
+Exec=/usr/local/wdget/bin/wdget
+Icon=/usr/local/wdget/images/dnd.png
+Terminal=false
+Type=Application
+Categories=Application;Network;wdget;
+StartupNotify=true
+Name[zh_CN]=wdget
+GenericName[zh_CN]=wdget
+Comment[zh_CN]=wdget
+
